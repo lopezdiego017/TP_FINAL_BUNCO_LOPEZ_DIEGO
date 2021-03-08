@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1607686084 source:c:\users\sebastian de la cruz\desktop\tpbunco\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+	<conio.h>
+	"rlutil.h"
+	"menu.h"
+	"Funciones Generales.h"
+	"modosolo.h"
+	"dosjugadores.h"
+	"puntos.h"
+	"cargamanual.h"
+
+1606579230 c:\users\sebastian de la cruz\desktop\tpbunco\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605192146 c:\users\sebastian de la cruz\desktop\tpbunco\menu.h
+	"soporte.h"
+
+1606618664 c:\users\sebastian de la cruz\desktop\tpbunco\soporte.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1606865617 c:\users\sebastian de la cruz\desktop\tpbunco\funciones generales.h
+	"rlutil.h"
+
+1607683503 c:\users\sebastian de la cruz\desktop\tpbunco\modosolo.h
+	"Funciones Generales.h"
+	<unistd.h>
+	<conio.h>
+
+1607685249 c:\users\sebastian de la cruz\desktop\tpbunco\puntos.h
+	"Funciones Generales.h"
+
+1607686126 c:\users\sebastian de la cruz\desktop\tpbunco\cargamanual.h
+	"Funciones Generales.h"
+
+1607686609 c:\users\sebastian de la cruz\desktop\tpbunco\dosjugadores.h
+	"Funciones Generales.h"
+
+1607690461 source:c:\users\sebastian de la cruz\desktop\bunco tp final\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+	<conio.h>
+	"rlutil.h"
+	"menu.h"
+	"Funciones Generales.h"
+	"modosolo.h"
+	"dosjugadores.h"
+	"puntos.h"
+	"cargamanual.h"
+
+1606579230 c:\users\sebastian de la cruz\desktop\bunco tp final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605192146 c:\users\sebastian de la cruz\desktop\bunco tp final\menu.h
+	"soporte.h"
+
+1606618664 c:\users\sebastian de la cruz\desktop\bunco tp final\soporte.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1606865617 c:\users\sebastian de la cruz\desktop\bunco tp final\funciones generales.h
+	"rlutil.h"
+
+1607683503 c:\users\sebastian de la cruz\desktop\bunco tp final\modosolo.h
+	"Funciones Generales.h"
+	<unistd.h>
+	<conio.h>
+
+1607686609 c:\users\sebastian de la cruz\desktop\bunco tp final\dosjugadores.h
+	"Funciones Generales.h"
+
+1607685249 c:\users\sebastian de la cruz\desktop\bunco tp final\puntos.h
+	"Funciones Generales.h"
+
+1607686126 c:\users\sebastian de la cruz\desktop\bunco tp final\cargamanual.h
+	"Funciones Generales.h"
+
+1607690461 source:c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+	<conio.h>
+	"rlutil.h"
+	"menu.h"
+	"Funciones Generales.h"
+	"modosolo.h"
+	"dosjugadores.h"
+	"puntos.h"
+	"cargamanual.h"
+
+1606579230 c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605192146 c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\menu.h
+	"soporte.h"
+
+1606618664 c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\soporte.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1611011502 c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\funciones generales.h
+	"rlutil.h"
+
+1611011502 c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\modosolo.h
+	"Funciones Generales.h"
+	<unistd.h>
+	<conio.h>
+
+1611012888 c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\dosjugadores.h
+	"Funciones Generales.h"
+
+1607685249 c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\puntos.h
+	"Funciones Generales.h"
+
+1607686126 c:\users\sebastiancruz\desktop\premer cuatrimestre\bunco tp final\cargamanual.h
+	"Funciones Generales.h"
+
+1615168280 source:c:\users\diego\documents\code bloks\bunco\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+	<conio.h>
+	"rlutil.h"
+	"menu.h"
+	"Funciones Generales.h"
+	"modosolo.h"
+	"dosjugadores.h"
+	"puntos.h"
+	"cargamanual.h"
+	"Instrucciones.h"
+
+1606579230 c:\users\diego\documents\code bloks\bunco\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605192146 c:\users\diego\documents\code bloks\bunco\menu.h
+	"soporte.h"
+
+1606618664 c:\users\diego\documents\code bloks\bunco\soporte.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1611011502 c:\users\diego\documents\code bloks\bunco\funciones generales.h
+	"rlutil.h"
+
+1615068282 c:\users\diego\documents\code bloks\bunco\modosolo.h
+	"Funciones Generales.h"
+	<unistd.h>
+	<conio.h>
+
+1615148099 c:\users\diego\documents\code bloks\bunco\dosjugadores.h
+	"Funciones Generales.h"
+
+1607685249 c:\users\diego\documents\code bloks\bunco\puntos.h
+	"Funciones Generales.h"
+
+1607686126 c:\users\diego\documents\code bloks\bunco\cargamanual.h
+	"Funciones Generales.h"
+
+1606057459 c:\users\diego\documents\code bloks\bunco\instrucciones.h
+
